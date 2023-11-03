@@ -1,0 +1,17 @@
+There are primarily one difference [Grid] & [Flex]
+-Flex is an one-dimensional property
+-Grid is an two-dimensional property
+
+CSS GRID:-
+1:-The main priority of an grid is to use layout first
+2:- It is played on 2 basis i.e Row and column 
+3:- Saves time and works fast
+4:- Not supported by every browsers
+5:- It is created within stylesheet
+
+
+FLEXBOX:-
+1:- Flex can be arranged in any direction.
+2:- Supports all browsers.
+3:- Items aligned between containers.
+4:- Box layout for documents

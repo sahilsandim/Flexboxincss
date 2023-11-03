@@ -1,0 +1,32 @@
+1.justify-content
+  It is mainly use on x-axis of the containers items 
+  also it uses to move items horizontally.
+  E.g:- 1-  justify-containers :-center
+        2 - justify-containers :-flex-end , flex-start
+        3 - justify-containers :-space-between
+        4 - justify-containers :-space-around
+
+2.align-items 
+  It is mainly use on they-axis of the containers items
+  also it uses to move items vertically.
+  E.g:- 1- align-items :-center;
+        2- align-items :-start;
+        3- align-items :-end;
+
+3.gap
+   It is used to define the gap between rows and columns 
+   e.g:- 1- row-gap;
+         2- column-gap;
+
+4.flex-direction
+   It helps to define direction of the flexible items
+   e.g:- 1- flex-direction:-row;
+         2- flex-direction:-row-reverse;
+         3- flex-direction:-column;
+         4- flex-direction:-column-reverse;
+
+5.flex-wrap
+   It is used to specify whether items should wrap or not
+   e.g:- 1-flex-wrap:-wrap;
+         2-flex-wrap:-wrap-reverse;
+         3-flex-wrap:-nowrap;
